@@ -1,0 +1,1 @@
+{"sublime_text": ">=3000", "version": "0.0.1", "url": "https://github.com/witsec/SublimeLinter-yaml-lint", "platforms": ["*"], "dependencies": [], "description": "SublimeLinter 3 plugin for Puppet, using yaml-lint."}
