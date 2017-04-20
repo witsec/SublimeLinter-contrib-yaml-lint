@@ -1,7 +1,7 @@
 SublimeLinter-contrib-yaml-lint
 ================================
 
-This linter plugin for [SublimeLinter][docs] provides an interface to the [yaml-lint](https://github.com/Pryz/yaml-lint) gem. It will be used with files that have the “YAML” syntax.
+This linter plugin for [SublimeLinter](http://sublimelinter.readthedocs.org/) provides an interface to the [yaml-lint](https://github.com/Pryz/yaml-lint) gem. It will be used with files that have the “YAML” syntax.
 
 ## Installation
 SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 3 is not installed, please follow the instructions [here](http://sublimelinter.readthedocs.org/en/latest/installation.html).
@@ -39,11 +39,11 @@ If you would like to contribute enhancements or fixes, please do the following:
 1. Hack on a separate topic branch created from the latest `master`.
 1. Commit and push the topic branch.
 1. Make a pull request.
-1. Be patient.  ;-)
+1. Be patient ;-)
 
 Please note that modications should follow these coding guidelines:
 
-- Indent is 4 spaces.
+- Indent is tab.
 - Code should pass flake8 and pep257 linters.
 - Vertical whitespace helps readability, don’t be afraid to use it.
 - Please use descriptive variable names, no abbrevations unless they are very well known.
