@@ -9,7 +9,7 @@ SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 
 ### Linter installation
 Before using this plugin, you must ensure that `yaml-lint >= 0.0.9` is installed on your system. To install `yaml-lint`, do the following:
 
-1. Install [Ruby](https://ruby-lang.org).
+1. Install [Ruby](https://www.ruby-lang.org).
 
 1. Install `yaml-lint` by typing the following in a terminal:
    ```
